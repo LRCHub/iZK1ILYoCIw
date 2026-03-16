@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラストディナー (prod. by harha)",
+  "base_artist": "あたし",
+  "createdAt": "2026-03-16T11:18:19.059706Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラストディナー (prod. by harha)",
+      "artist": "あたし",
+      "has_synced": false,
+      "path": "select/pl_01_ラストディナー_(prod._by_harha)_あたし.txt"
+    }
+  ]
+}
